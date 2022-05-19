@@ -1,0 +1,42 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "axios-oauth-client": "^1.4.4",
+    "axios-token-interceptor": "^0.2.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "exceljs": "^4.3.0",
+    "express": "^4.16.4",
+    "fetch": "^1.1.0",
+    "formidable": "^1.2.1",
+    "formulajs": "^1.0.8",
+    "fs-extra": "^8.0.0",
+    "google-form-send": "^2.0.1",
+    "google-spreadsheet": "^3.1.15",
+    "googleapis": "^67.0.0",
+    "hot-formula-parser": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.25",
+    "mongoose": "^5.13.13",
+    "mongoose-sequence": "^5.0.1",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "onesignal-node": "^2.1.0",
+    "uuid": "^8.3.2",
+    "xlsx": "^0.17.4",
+    "xlsx-calc": "^0.6.0"
+  },
+  "description": ""
+}
